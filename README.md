@@ -1,4 +1,4 @@
-# 🤖 AI Agentic System (Level 4 — CrewAI)
+# 🤖 AI Agentic System (CrewAI)
 
 This project demonstrates how to build a **multi-agent AI system** using:
 
